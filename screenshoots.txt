@@ -1,0 +1,19 @@
+Folder initialization
+    -git init
+To create files which are needed
+    -README.md
+    -feature.txt
+    -screenshoots.txt
+Commands used to add files:
+    -git add README.md
+    -git add feature.txt
+    -git add screenshoots.txt
+Git commands used for commiting a file with a message:
+    git commit "your message goes here"
+Creating branchs(main,feature)
+    -git push -u origin feature
+    -git push -u main
+Pushing files to github branchs
+    -git remote add origin 
+    -git add remote origin main https://github.com/niyomubyeyi150-sudo/My-project-1.git
+    -git push -u origin 
